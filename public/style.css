@@ -1,0 +1,25 @@
+.card{
+    min-height: 20vh !important;
+}
+
+.author{
+    font-size: 15px !important;
+}
+.half{
+    width: 44% !important;
+}
+
+input{
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+#trigger{
+    position: fixed !important;
+    top: 90vh !important;
+    left: 90vw !important;
+}
+
+.text{
+    height: 100vh !important;
+}
